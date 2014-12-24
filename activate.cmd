@@ -1,0 +1,1 @@
+call vServer\scripts\activate.bat
