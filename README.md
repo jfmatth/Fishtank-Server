@@ -1,4 +1,6 @@
 Fishtank-Server
 ===============
 
-Second attempt at Fishtank Server v2
+Second attempt (v2) at Fishtank Server
+
+
